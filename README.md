@@ -8,7 +8,7 @@ Projeto desenvolvido no curso da Alura com finalidade de desenvolver habilidades
 
 Descrição: O site define um número aleatório e o usuário deve tentar acerta-lo apenas com o comando de voz
 
-[Clique aqui para acessar](https://vinidevit.github.io/numero-secreto/)
+[Clique aqui para acessar](https://vinidevit.github.io/numero-secreto-API/)
 
 #  Tecnologias
 
